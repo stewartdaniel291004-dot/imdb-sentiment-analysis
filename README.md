@@ -1,4 +1,4 @@
-# imdb-sentiment-analysis
+# IMDB-sentiment-analysis
 IMDb movie review sentiment classification using TF-IDF, Logistic Regression, and Naive Bayes.
 # IMDb Movie Review Sentiment Analysis
 
